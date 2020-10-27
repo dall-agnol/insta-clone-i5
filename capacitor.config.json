@@ -1,0 +1,13 @@
+{
+  "appId": "br.com.lorenzo.ionic5",
+  "appName": "insta-clone-5",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}

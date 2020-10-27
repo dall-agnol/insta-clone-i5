@@ -1,5 +1,7 @@
 {
   "name": "insta-clone-5",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
